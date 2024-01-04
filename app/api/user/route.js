@@ -17,6 +17,7 @@
 // })
 
 // api-endpoint --> http://localhost:3000/api/user
+// youtube link=> https://www.youtube.com/watch?v=wm5gMKuwSYk&list=WL&index=51&t=19s
 export async function GET(request){
     const user = [
                     { name: "A" }, { name: "B" }, { name: "C" }
